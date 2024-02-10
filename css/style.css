@@ -162,8 +162,13 @@ body {
   }
 
   /* Estilos del formulario */
-form {
+  form {
+    font-family: 'Sixtyfour', sans-serif;
     margin-top: 20px;
+  }
+
+  .contact {
+    font-family: 'Sixtyfour', sans-serif;
   }
   
   input[type="text"],
